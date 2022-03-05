@@ -1,0 +1,369 @@
+body{
+    /* background-color: black; */
+    background-image: url('img.jpg');
+}
+.container{
+    display:block;
+ border-radius:50% 50% 0% 0%    ;
+ width:40%;
+ height:auto;
+ background-color: blueviolet;
+ margin-left:400px;
+ border: 2px solid black;
+}
+.firstclass{
+    display:flex;
+    justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  padding-top: 20px;;
+ 
+}
+
+.item{
+    display: flex;
+   justify-content: center;
+   justify-content: space-between;
+   padding:150px;
+   height:100px;
+   
+}
+.item1{
+    width: 30px;
+    height:30px;
+    background-color: aliceblue;
+}
+.box1{
+    width:50px;
+    height:30px;
+    background-color: aliceblue;
+    
+}
+.box{
+    display:flex;
+    justify-content: center;
+    height:40px;
+  margin-top: 0px;
+}
+.tree{
+display:flex;
+
+}
+.tree1{
+    margin-left: 40px;
+}
+.tree2{
+    margin-left: 190px;
+}
+.tree3{
+    margin-left: 20px;
+}
+.tree4{
+    margin-left: 190px;
+}
+
+
+
+.pencil{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.pencil1{
+    /* margin-left:40px; */
+ 
+}
+.pencil2{
+    margin-left: 3px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+}
+.pencil3{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue; 
+    margin-left: 190px; 
+}
+.pencil4{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 20px;
+    /* margin-right: 50px; */
+}
+.pencil5{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 190px;
+    /* margin-right: 30px; */
+}
+.pencil6{
+    margin-right: 5px;
+    margin-left: 3px;
+}
+.pencil7{
+    margin-right: 324px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 7px;
+}
+.pencil8{
+    margin-left: 90px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    /* margin-right: 5px; */
+}
+
+
+
+.ball{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding:80px;
+    
+}
+.ball1{
+    width: 30px;
+    height:30px;
+    background-color: aliceblue;
+}
+.ball2{
+    width: 50px;
+    height:30px;
+    background-color: aliceblue;
+}
+.ball3{
+    width: 30px;
+    height:30px;
+    background-color: aliceblue;
+}
+.rur{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+
+.bat{
+    display:flex;
+}
+.bat1{
+margin-left: 70px;;
+}
+.bat2{
+ margin-left: 30px;;
+}.bat3{
+    margin-left: 100px;
+}.bat4{
+    margin-left:10px ;
+}.bat5{
+   margin-left: 10px;
+}.bat6{
+    margin-left: 10px;
+}.bat7{
+    margin-left: 100px;
+}.bat8{
+    margin-left: 30px;
+}
+.null{
+    background-color: rgb(228, 228, 228);
+    width:98%;
+    height:1px;
+}
+
+.stick{
+    display:flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.stick2{
+margin-left: 50px;
+}.stick3{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 170px;
+}.stick4{
+    margin-left: 40px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+}.stick5{
+margin-left: 170px;
+}
+
+.tig{
+    display: flex;
+}
+.tig1{
+   margin-left: 50px;
+}
+.tig2{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 10px;;
+}.tig3{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 165px;
+}.tig4{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 10px;
+}.tig5{
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    margin-left: 161px;
+}.tig6{
+margin-left: 15px;
+}
+
+
+
+.sticky{
+    display: flex;
+    align-items: center;
+}
+.sticky2{
+ margin-left: 44px;
+}
+.sticky3{
+   margin-left: 50px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+}
+.sticky4{
+    margin-left: 108px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+}
+.sticky5{
+    margin-left: 43px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+}
+.sticky6{
+    margin-left: 105px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+}
+.sticky7{
+    margin-left: 50px;
+ 
+}
+.thug{
+    display:flex;
+    align-items: center;
+}
+
+.thug1{
+   margin-left: 43px;
+   
+}
+.thug2{
+    margin-left: 10px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;  
+}
+.thug3{
+    margin-left: 165px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;  
+}
+.thug4{
+    margin-left: 10px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;  
+}
+.thug5{
+    margin-left: 162px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;   
+}
+.thug6{
+    margin-left: 10px;
+}
+
+.stickys{
+    display: flex;
+    align-items: center;
+}
+.stickys2{
+margin-left: 43px;
+}
+.stickys3{
+    margin-left: 170px;
+    width:10px;
+    height: 10px;
+    background-color: aliceblue;
+    }.stickys4{
+        margin-left: 43px;
+        width:10px;
+        height: 10px;
+        background-color: aliceblue;
+        }.stickys5{
+            margin-left: 165px;
+            }
+.tub{
+    width:50px;
+    height:30px;
+    background-color: aliceblue; 
+    border-radius: 10%;
+}.tub1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.tick{
+display:flex;
+margin-top: 30px;
+}
+.tick1{
+    margin-left: 40px;
+    width:30px;
+    height:30px;
+    background-color: aliceblue; 
+    border-radius: 10%; 
+}
+.tick2{
+    margin-left:  170px;
+    width:30px;
+    height:30px;
+    background-color: aliceblue; 
+    border:1px solid black;
+}.tick3{
+    margin-left:;
+    width:30px;
+    height:30px;
+    background-color: aliceblue; 
+    border:1px solid black;
+}.tick4{
+    margin-left: 130px;
+    width:30px;
+    height:30px;
+    background-color: aliceblue; 
+    border-radius: 10%; 
+}
+
